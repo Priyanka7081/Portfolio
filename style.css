@@ -483,3 +483,8 @@ nav .fa-solid{
     margin-top: -40px;
     display: block;
 }
+@media(max-width:468px){
+    #skill{
+        width: 370px;
+    }
+}
